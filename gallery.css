@@ -9,12 +9,12 @@ color: #2c3e50;
 	background: #2c3e50;
 }
 
-{
+a{
 	color:white;
 }
 
 .navbar-inverse.navbar-nav>li>a {
-	color:white;
+	color:white, 
 }
 .navabar-inverse .navbar-brand{
 	color:white;
